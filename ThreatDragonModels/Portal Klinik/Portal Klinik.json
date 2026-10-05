@@ -13,16 +13,16 @@
     "diagrams": [
       {
         "id": 0,
-        "title": "New STRIDE diagram",
+        "title": "DFD Portal",
         "diagramType": "STRIDE",
         "placeholder": "New STRIDE diagram description",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.6.2",
         "cells": [],
-        "description": "DFD Portal"
+        "description": ""
       }
     ],
-    "diagramTop": 2,
+    "diagramTop": 3,
     "reviewer": "",
     "threatTop": 0
   }
